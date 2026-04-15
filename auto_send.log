@@ -1,0 +1,23 @@
+2026-01-30 14:34:38,943 INFO: Using macOS Mail (osascript)
+2026-01-30 14:34:39,817 INFO: Mail sent to evelynlucky1974@gmail.com (sender=true)
+2026-02-02 03:32:10,461 INFO: Using WhatsApp deeplink
+2026-02-02 03:32:10,926 INFO: Opened WhatsApp for 2349046539409
+2026-02-02 03:37:03,107 INFO: Using WhatsApp deeplink
+2026-02-02 03:37:03,875 INFO: Opened WhatsApp for 2349046539409
+2026-02-02 03:42:41,574 INFO: Scheduler thread started
+2026-02-02 03:45:00,064 INFO: Executing scheduled send to 2349046539409
+2026-02-02 03:45:00,067 INFO: Using WhatsApp deeplink
+2026-02-02 03:45:00,875 INFO: Opened WhatsApp for 2349046539409
+2026-02-02 03:55:00,820 INFO: Executing scheduled send to 2349046539409
+2026-02-02 03:55:00,824 INFO: Using WhatsApp deeplink
+2026-02-02 03:55:01,390 INFO: Opened WhatsApp for 2349046539409
+2026-04-14 11:47:29,159 INFO: Scheduler thread started
+2026-04-14 11:48:41,679 INFO: Using WhatsApp deeplink
+2026-04-14 11:48:42,172 INFO: Opened WhatsApp for 2347041978949
+2026-04-14 11:56:00,108 INFO: Executing scheduled send to +2347041978949
+2026-04-14 11:56:00,116 INFO: Using WhatsApp deeplink
+2026-04-14 11:56:00,607 INFO: Opened WhatsApp for 2347041978949
+2026-04-14 11:56:00,646 INFO: Executing scheduled send to +2347041978949
+2026-04-14 11:56:00,647 INFO: Using WhatsApp deeplink
+2026-04-14 11:56:01,483 INFO: Opened WhatsApp for 2347041978949
+2026-04-14 11:58:26,472 INFO: Scheduler thread started
